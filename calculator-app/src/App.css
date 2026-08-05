@@ -58,3 +58,38 @@ button:hover {
   background-color: #d1d5db;
 }
 
+.clear {
+  background-color: #ef4444;
+  color: white;
+}
+
+.delete {
+  background-color: #f97316;
+  color: white;
+}
+
+.operator {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.equal {
+  background-color: #22c55e;
+  color: white;
+}
+
+.clear:hover {
+  background-color: #dc2626;
+}
+
+.delete:hover {
+  background-color: #ea580c;
+}
+
+.operator:hover {
+  background-color: #2563eb;
+}
+
+.equal:hover {
+  background-color: #16a34a;
+}
